@@ -189,14 +189,14 @@ No run is ever “locked.”
 
 ## Primary Tab 3: Reference & Notes
 
-### SubTab 3.1 — Universe Browser
-- Cached or browsable view of the EVE Universe
+### SubTab 3.1 — University Browser
+- Cached or browsable view of the EVE University
 - Intended for:
   - Quick reference
   - Contextual lookup
   - Linking systems, regions, and entities into runs
 
-This is not a full map system; it is a **reference companion** to the Run Journal.
+This is not a full web site cache; it is a **reference companion** to the Run Journal.
 
 ---
 
